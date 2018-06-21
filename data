@@ -1,0 +1,13 @@
+import pandas as pd
+import numpy as np
+import seaborn as sa
+
+x = np.array(1,10)
+print(x)
+
+
+
+
+
+
+
